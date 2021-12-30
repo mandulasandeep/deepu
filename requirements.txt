@@ -12,3 +12,4 @@ openpyxl
 Pyrebase
 simplet5
 zipfile38
+wheel
