@@ -1,0 +1,14 @@
+certifi==2021.5.30
+click
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+wincertstore
+pandas==1.3.5
+openpyxl
+Pyrebase
+simplet5
+zipfile38
