@@ -162,6 +162,7 @@ opencv-python
 openpyxl
 opt-einsum
 packaging
+pandas
 pandocfilters
 parso
 pickleshare
