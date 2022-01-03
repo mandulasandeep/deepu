@@ -162,7 +162,7 @@ opencv-python
 openpyxl
 opt-einsum
 packaging
-pandas==1.3.0
+pandas
 pandocfilters
 parso
 pickleshare
