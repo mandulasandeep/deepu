@@ -1,6 +1,6 @@
 from flask import Flask,render_template,request
 import os
-import pandas 
+import pandas as pd
 
 import csv
 import glob
